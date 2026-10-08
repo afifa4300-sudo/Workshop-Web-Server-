@@ -1,5 +1,5 @@
 <?php
-// File: info.php
+// File info.php
 ?>
 <table>
     <tr>
